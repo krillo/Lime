@@ -1,0 +1,17 @@
+\n\n20111215 11:12:47<s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/"><s:Body><GetXmlQueryDataResponse xmlns="http://lundalogik.se/Tangelo/"><GetXmlQueryDataResult>&lt;?xml version="1.0" encoding="UTF-16" ?&gt;&lt;data&gt;&lt;office name="Alert Services" city="Örebro" phone="020-90 50 50" fax="" www="www.alert-services.se" address1="Pappersbruksallén 1
+702 15 Örebro" address2="Pappersbruksallén 1
+702 15 Örebro" registrationno="556108-6082" vatno="" bg="5048-7776" pg="703482-0" misc=""/&gt;&lt;office name="Alert Services" city="Stockholm" phone="020-90 50 50" fax="Fax nummer" www="www.alert-services.se" address1="Lindhagensplan 70
+102 29 Stockholm" address2="Box 12516
+102 29 Stockholm" registrationno="556108-6082" vatno="" bg="5048-7776" pg="703482-0" misc=""/&gt;&lt;/data&gt;</GetXmlQueryDataResult></GetXmlQueryDataResponse></s:Body></s:Envelope>
+
+20111215 11:12:22<s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/"><s:Body><GetXmlQueryDataResponse xmlns="http://lundalogik.se/Tangelo/"><GetXmlQueryDataResult>&lt;?xml version="1.0" encoding="UTF-16" ?&gt;&lt;data&gt;&lt;office name="Alert Services" city="Örebro" phone="020-90 50 50" fax="" www="www.alert-services.se" address1="Pappersbruksallén 1
+702 15 Örebro" address2="Pappersbruksallén 1
+702 15 Örebro" registrationno="556108-6082" vatno="" bg="5048-7776" pg="703482-0" misc=""/&gt;&lt;office name="Alert Services" city="Stockholm" phone="020-90 50 50" fax="Fax nummer" www="www.alert-services.se" address1="Lindhagensplan 70
+102 29 Stockholm" address2="Box 12516
+102 29 Stockholm" registrationno="556108-6082" vatno="" bg="5048-7776" pg="703482-0" misc=""/&gt;&lt;/data&gt;</GetXmlQueryDataResult></GetXmlQueryDataResponse></s:Body></s:Envelope>
+
+2011-12-15 11:12:04<s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/"><s:Body><GetXmlQueryDataResponse xmlns="http://lundalogik.se/Tangelo/"><GetXmlQueryDataResult>&lt;?xml version="1.0" encoding="UTF-16" ?&gt;&lt;data&gt;&lt;office name="Alert Services" city="Örebro" phone="020-90 50 50" fax="" www="www.alert-services.se" address1="Pappersbruksallén 1
+702 15 Örebro" address2="Pappersbruksallén 1
+702 15 Örebro" registrationno="556108-6082" vatno="" bg="5048-7776" pg="703482-0" misc=""/&gt;&lt;office name="Alert Services" city="Stockholm" phone="020-90 50 50" fax="Fax nummer" www="www.alert-services.se" address1="Lindhagensplan 70
+102 29 Stockholm" address2="Box 12516
+102 29 Stockholm" registrationno="556108-6082" vatno="" bg="5048-7776" pg="703482-0" misc=""/&gt;&lt;/data&gt;</GetXmlQueryDataResult></GetXmlQueryDataResponse></s:Body></s:Envelope>
